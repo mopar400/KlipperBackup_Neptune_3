@@ -15,7 +15,9 @@ Also:
 https://lazarofilm.gitbook.io/3d-printing/creating-a-github-backup-for-klipper
 
 Creating a GitHub backup for Klipper
+
 For all the added Information
+
 Installing Git on my PI and setting it up
 
 https://github.com/th33xitus/kiauh/blob/master/resources/gcode_shell_command.py
@@ -25,5 +27,6 @@ For the gcode_shell_command.py script
 https://github.com/richardjm/voronpi-klipper-backup/blob/master/.scripts/git_backup.sh
 
 for the git_backup.sh script
+
 
 Open source Use at your own risk!
