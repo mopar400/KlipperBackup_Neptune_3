@@ -16,10 +16,10 @@ Installing Git on my PI and setting it up
 
 For all the added Information:
 
-https://github.com/th33xitus/kiauh/blob/master/resources/gcode_shell_command.py
+https://github.com/th33xitus/kiauh/blob/master/resources/gcode_shell_command.py          
 For the gcode_shell_command.py script 
 
-https://github.com/richardjm/voronpi-klipper-backup/blob/master/.scripts/git_backup.sh
+https://github.com/richardjm/voronpi-klipper-backup/blob/master/.scripts/git_backup.sh         
 for the git_backup.sh script:
 
 
