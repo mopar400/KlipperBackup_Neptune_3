@@ -1,7 +1,7 @@
 # KlipperBackup_Neptune_3
 Klipper config files Backup
 
-All current configurations files for my Neptune 3 running Klipper and Fluidd
+All current configurations files for my Neptune 3 running Klipper and Fluidd.  
 All completed with a one button Macro in Fluidd
      Note: This will work in Mainsail also.
  
