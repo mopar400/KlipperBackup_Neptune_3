@@ -6,10 +6,13 @@ All completed with a one button Macro in Fluidd
  
 Thanks go out to Makers Source YouTube Video :
 https://www.youtube.com/watch?v=LQmFUqjWiUs
+
 Also:
+
 https://lazarofilm.gitbook.io/3d-printing/creating-a-github-backup-for-klipper 
-Creating a GitHub backup for Klipper and all the useful information
-Installing Git on my PI and setting it up:
+Creating a GitHub backup for Klipper and all the useful information of
+Installing Git on my PI and setting it up
+
 For all the added Information:
 
 https://github.com/th33xitus/kiauh/blob/master/resources/gcode_shell_command.py
