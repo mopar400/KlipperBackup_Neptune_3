@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=LQmFUqjWiUs
 
 Also:
 
-https://lazarofilm.gitbook.io/3d-printing/creating-a-github-backup-for-klipper 
+https://lazarofilm.gitbook.io/3d-printing/creating-a-github-backup-for-klipper            
 Creating a GitHub backup for Klipper and all the useful information of
 Installing Git on my PI and setting it up
 
